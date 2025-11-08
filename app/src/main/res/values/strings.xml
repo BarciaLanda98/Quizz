@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">PDF Quiz</string>
+    <string name="pick_pdf">Seleccionar PDF</string>
+    <string name="no_questions">No se encontraron preguntas. Asegúrate de que el PDF tenga resaltados en los colores esperados.</string>
+    <string name="start_quiz">Comenzar</string>
+    <string name="next_question">Siguiente</string>
+    <string name="retry">Volver a intentar</string>
+    <string name="score">Puntuación: %1$d/%2$d</string>
+    <string name="share_results">Compartir resultados</string>
+    <string name="correct_answer">¡Respuesta correcta!</string>
+    <string name="incorrect_answer">Respuesta incorrecta</string>
